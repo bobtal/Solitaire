@@ -1,0 +1,2 @@
+### A Solitaire app in Kotlin created through the Kotlin for Java Developers course on [Treehouse](https://teamtreehouse.com/library/kotlin-for-java-developers). 
+Contains the logic only with no UI, so it can be used as a basis for either an Android app or a JavaFX app.
